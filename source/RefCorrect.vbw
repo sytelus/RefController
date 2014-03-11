@@ -1,0 +1,12 @@
+AddIn = 88, 88, 486, 436, Z
+modAddToIni = 110, 110, 508, 458, 
+frmFastReferences = 132, 132, 547, 454, , 88, 88, 503, 410, C
+VBPFile = 22, 22, 437, 344, 
+VBPReference = 44, 44, 405, 366, 
+VBPReferences = 88, 88, 380, 410, 
+modMain = 154, 154, 481, 476, 
+frmUnCorrectableRef = 88, 88, 415, 410, , 66, 66, 393, 388, C
+frmAddIn = 44, 44, 475, 366, , 22, 22, 453, 344, C
+modCommon = 154, 154, 580, 476, 
+modRegistry = 44, 44, 446, 366, 
+Utils = 0, 0, 0, 0, C
